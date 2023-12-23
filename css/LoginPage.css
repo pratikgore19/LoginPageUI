@@ -63,3 +63,7 @@ h1 {
     background-color: green;
     transition: 0.2s;
 }
+.input-box:focus {
+    outline: none;
+    border-bottom: 2px solid #ccc;
+}
